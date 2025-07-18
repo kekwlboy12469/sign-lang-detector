@@ -33,7 +33,7 @@ This project allows real-time sign language detection using a webcam and machine
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/sign-language-detector.git
+git clone https://github.com/kekwlboy12469sign-language-detector.git
 cd sign-language-detector
 python -m venv venv
 source venv/bin/activate   # For Windows: venv\Scripts\activate
