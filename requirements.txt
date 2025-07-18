@@ -1,0 +1,8 @@
++# Required libraries
+streamlit
+opencv-python
+mediapipe
+joblib
+scikit-learn
+numpy
+Pillow
